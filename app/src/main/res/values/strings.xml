@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Map it</string>
+    <string name="access_token">pk.eyJ1IjoidGhld2VhdGhlcm1hbjA2IiwiYSI6ImNrbTM1bDJwNzR0cDkydm4xajF1cWhlMzMifQ.vi2ndyj72-z4h3ygJU2nag</string>
+    <string name="start_navigation">Start Navigation</string>
+</resources>

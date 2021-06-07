@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969855667592",
+    "project_id": "auth-1dc5b",
+    "storage_bucket": "auth-1dc5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969855667592:android:669d5dbef98997c6357e3d",
+        "android_client_info": {
+          "package_name": "com.example.mapit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969855667592-1ve7tkfjq477lnoc0e8n4p1fq3irubse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLX1CcTvwXTvLeopEPuepRFiq8Ig6oLYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969855667592-1ve7tkfjq477lnoc0e8n4p1fq3irubse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
